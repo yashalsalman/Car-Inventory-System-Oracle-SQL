@@ -1,4 +1,4 @@
-A web-based application built using Oracle APEX to streamline the management of car inventory and related accessories. This system provides an intuitive interface for managing car details, tracking accessory stock, processing sales, and generating real-time reports.
+I named this project as "Carventory" - A web-based application built using Oracle APEX to streamline the management of car inventory and related accessories. This system provides an intuitive interface for managing car details, tracking accessory stock, processing sales, and generating real-time reports.
 
 Features:
 1. Car Management – Add, update, and delete car records with details such as make, model, year, price, and images.
