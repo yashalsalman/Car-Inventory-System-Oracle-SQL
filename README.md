@@ -9,7 +9,6 @@ Features:
 6. Responsive Design – Optimized for desktops, tablets, and mobile devices.
 
 Tech Stack:
-
 Frontend & Backend: Oracle APEX
 Database: Oracle Database
 
